@@ -1,9 +1,9 @@
 </div>
-<img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Hello+World+%F0%9F%91%8B;Hallo+Welt%F0%9F%91%8B;Hello+World%F0%9F%91%8B"></div>
+<img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Hello+World+%F0%9F%91%8B;Hallo+Welt%F0%9F%91%8B;مرحبا%F0%9F%91%8B"></div>
 <h1 align="center">I'm Jamill hallak</h1>
 <p align="center">
 <h3 align="center"> AI Engineer && Blockchain Developer🌟.</h3>
-<a href="https://www.linkedin.com/in/jamill-hallak-808680225/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jamill halla" height="30" width="30" /></a>;
+<a href="https://www.linkedin.com/in/jamill-hallak-808680225/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="jamill hallak" height="30" width="30" /></a>;
 </p>
 <h3 align="left"> About me : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 </h3>
