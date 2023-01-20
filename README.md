@@ -3,14 +3,14 @@
 <h1 align="center">I'm Jamill hallak</h1>
 <p align="center">
 <h3 align="center"> AI Engineer && Blockchain Developer🌟.</h3>
-<a href="https://www.linkedin.com/in/jamill-hallak-808680225/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jamill-hallak-808680225/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jamill halla" height="30" width="30" /></a>;
 </p>
 <h3 align="left"> About me : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 </h3>
 
 - I have 3 + years of experience in developing and writing Smart Contracts for Ethereum and NonEthereum compatible networks.
 - I have 2 + years of experience in Deep learning, Machine learning, NLP ,expert systems ,CV.
-- I have 2 + years of experience using web3,ethers.js and React (fullstack) .
+- I have 2 + years of experience using web3,ethers.js and React (FullStack) .
 - I have also used Web3 to integrate several Smart contracts of different blockchain to frontend designs.
 
 - 📖 I am currently learing Reinforcement learning (RL) ,AWS.
