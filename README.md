@@ -14,6 +14,9 @@
 - I have also used Web3 to integrate several Smart contracts of different blockchain to frontend designs.
 
 - 📖 I am currently learing Reinforcement learning (RL) ,AWS.
+
+- 💬 Talk to me about Metaverse,Web3, AI, startups
+
 - ♟ We can connect to play some games of Chess 
 
 
