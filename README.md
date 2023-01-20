@@ -14,8 +14,10 @@
 - 👯 We can connect to play some games of Chess ♟
 
 
--⚡ Project Done by me  :
+-⚡ Project Done by me :
+
 -[Atomicswap](https://atomicswap.vip/)
+
 -[AIU Metaverse](https://www.youtube.com/watch?v=vln4UbYLG0o)
 
 - 🧑‍💻 Tech I work on :
@@ -28,10 +30,14 @@
        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="/tensorflow" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://avatars.githubusercontent.com/u/22205159?s=200&v=4" alt="/truffle" width="65" height="65"/> 
+      <img src="https://avatars.githubusercontent.com/u/22205159?s=200&v=4" alt="truffle" width="65" height="65"/> 
+       <img src="https://trufflesuite.github.io/ganache/assets/img/ganache-logo-dark.svg" alt="ganache" width="65" height="65"/> 
+       <img src="https://avatars.githubusercontent.com/u/20999355?s=200&v=4" alt="infura" width="65" height="65"/> 
+       <img src="https://raw.githubusercontent.com/smartcontractkit/chainlink/develop/docs/logo-chainlink-blue.svg" alt="chainlink" width="65" height="65"/> 
+       <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="chainlink" width="65" height="65"/> 
+
        <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="65" height="65"/> 
 
-        
         
 
 </p>
