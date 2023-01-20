@@ -5,8 +5,8 @@
 <h3 align="center"> AI Engineer && Blockchain Developer🌟.</h3>
 <a href="https://www.linkedin.com/in/jamill-hallak-808680225/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 </p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> <h3 align="left"> About me.</h3>
-:
+<h3 align="left"> About me :.</h3>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
 - I have 3 + years of experience in developing and writing Smart Contracts for Ethereum and NonEthereum compatible networks.
 - I have 2 + years of experience in Deep learning, Machine learning, NLP ,expert systems ,CV.
@@ -19,9 +19,9 @@
 <h3 align="left"> -⚡ Project Done by me :.</h3>
 
 
- -[Atomicswap](https://atomicswap.vip/)
+  -[Atomicswap](https://atomicswap.vip/)
  
- -[AIU Metaverse](https://www.youtube.com/watch?v=vln4UbYLG0o)
+  -[AIU Metaverse](https://www.youtube.com/watch?v=vln4UbYLG0o)
 
 - 🧑‍💻 Tech I work on :
 
