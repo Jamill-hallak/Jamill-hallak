@@ -7,18 +7,20 @@
 </p>
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- I have worked on many DeFi, DEX, DAO, NFT marketplace and DApps based on Ethereum blockchain .
-- I have 3 + years of experience in developing and writing Smart Contracts for Ethereum compatible networks and NonEthereum compatible networks.
-- I have also used Web3 to integrate several Smart contracts of different blockchain to frontend designs. I have 2 + years of experience using web3 and ethers.js
-- I have 2 + years of experience in Deep learning, Machine learning, NLP.
+- I have 3 + years of experience in developing and writing Smart Contracts for Ethereum and NonEthereum compatible networks.
+- I have 2 + years of experience in Deep learning, Machine learning, NLP ,expert systems ,CV.
+- I have 2 + years of experience using web3,ethers.js and React (fullstack) .
+- I have also used Web3 to integrate several Smart contracts of different blockchain to frontend designs.
+
+- 📖 I am currently learing Reinforcement learning (RL) ,AWS.
 - 👯 We can connect to play some games of Chess ♟
 
+<h3 align="left"> -⚡ Project Done by me :.</h3>
 
--⚡ Project Done by me :
 
--[Atomicswap](https://atomicswap.vip/)
-
--[AIU Metaverse](https://www.youtube.com/watch?v=vln4UbYLG0o)
+ -[Atomicswap](https://atomicswap.vip/)
+ 
+ -[AIU Metaverse](https://www.youtube.com/watch?v=vln4UbYLG0o)
 
 - 🧑‍💻 Tech I work on :
 
@@ -35,8 +37,6 @@
        <img src="https://avatars.githubusercontent.com/u/20999355?s=200&v=4" alt="infura" width="65" height="65"/> 
        <img src="https://raw.githubusercontent.com/smartcontractkit/chainlink/develop/docs/logo-chainlink-blue.svg" alt="chainlink" width="65" height="65"/> 
        <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="chainlink" width="65" height="65"/> 
-
-       <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="65" height="65"/> 
 
         
 
