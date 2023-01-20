@@ -13,7 +13,7 @@
 - I have 2 + years of experience using web3,ethers.js and React (FullStack) .
 - I have also used Web3 to integrate several Smart contracts of different blockchain to frontend designs.
 
-- 📖 I am currently learing Reinforcement learning (RL) ,AWS.
+- 📖 I am currently learning Reinforcement learning (RL) ,AWS.
 
 - 💬 Talk to me about Metaverse,Web3, AI, startups
 
