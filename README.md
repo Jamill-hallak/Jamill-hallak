@@ -24,10 +24,8 @@
         <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="/npm" width="65" height="65"/> 
         <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="/npm" width="65" height="65"/> 
         <img src="  https://moralis.io/wp-content/uploads/2021/07/Skarmavbild-2021-07-14-kl.-16.37.53-768x765.png" alt="/npm" width="65" height="65"/> 
-
        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="/tensorflow" width="65" height="65"/> 
-
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
