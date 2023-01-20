@@ -14,15 +14,17 @@
 - I have also used Web3 to integrate several Smart contracts of different blockchain to frontend designs.
 
 - 📖 I am currently learing Reinforcement learning (RL) ,AWS.
-- 👯 We can connect to play some games of Chess ♟
+- ♟ We can connect to play some games of Chess 
 
 
 <h3 align="left"> -⚡ Project Done by me :</h3>
 
-
-   -[ Atomicswap](https://atomicswap.vip/)
  
-   -[ AIU Metaverse](https://www.youtube.com/watch?v=vln4UbYLG0o)
+       -[ AIU Metaverse](https://www.youtube.com/watch?v=vln4UbYLG0o)
+   
+   
+       -[ Atomicswap](https://atomicswap.vip/)
+
   
 
 - 🧑‍💻 Tech I work on :
