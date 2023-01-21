@@ -8,9 +8,10 @@
 <h3 align="left"> About me : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 </h3>
 
+- I have Bachelor's degree in Information Technology Engineering (Artificial Intelligence Specialization).
 - I have 3 + years of experience in developing and writing Smart Contracts for Ethereum and NonEthereum compatible networks.
 - I have 2 + years of experience in Deep learning, Machine learning, NLP ,expert systems ,CV.
-- I have 2 + years of experience using web3,ethers.js and React (FullStack) .
+- I have 2 + years of experience using web3,ethers.js and React (Full Stack) .
 - I have also used Web3 to integrate several Smart contracts of different blockchain to frontend designs.
 
 - 📖 I am currently learning Reinforcement learning (RL) ,AWS.
