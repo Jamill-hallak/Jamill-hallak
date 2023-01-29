@@ -45,8 +45,8 @@
        <img src="https://avatars.githubusercontent.com/u/20999355?s=200&v=4" alt="infura" width="65" height="65"/> 
        <img src="https://raw.githubusercontent.com/smartcontractkit/chainlink/develop/docs/logo-chainlink-blue.svg" alt="chainlink" width="65" height="65"/> 
        <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="chainlink" width="65" height="65"/> 
+          <img src="https://commons.wikimedia.org/wiki/File:Ipfs-logo-1024-ice-text.png" alt="chainlink" width="65" height="65"/> 
 
-        
 
 </p>
 
