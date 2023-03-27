@@ -35,9 +35,6 @@
 <p align="center">
         <img src="https://vectorwiki.com/images/Nth1M__solidity.svg" alt="/solidity" width="65" height="65"/> 
         <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="65" height="65"/> 
-       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="/tensorflow" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://avatars.githubusercontent.com/u/22205159?s=200&v=4" alt="truffle" width="65" height="65"/> 
        <img src="https://avatars.githubusercontent.com/u/20999355?s=200&v=4" alt="infura" width="65" height="65"/> 
        <img src="https://raw.githubusercontent.com/smartcontractkit/chainlink/develop/docs/logo-chainlink-blue.svg" alt="chainlink" width="65" height="65"/> 
