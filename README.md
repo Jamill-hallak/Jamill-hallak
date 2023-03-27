@@ -7,6 +7,7 @@
 </p>
 <h3 align="left"> About me : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamill-hallak&label=Profile%20views&color=0e75b6&style=flat" alt="jamill-hallak" /> </p>
 
 - I have Bachelor's degree in Information Technology Engineering (Artificial Intelligence Specialization).
 - I have 3 + years of experience in developing and writing Smart Contracts for Ethereum and NonEthereum compatible networks.
@@ -49,7 +50,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamill-hallak&label=Profile%20views&color=0e75b6&style=flat" alt="jamill-hallak" /> </p>
 
 
 
