@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Hello+World+%F0%9F%91%8B;Olá+Mundo+%F0%9F%91%8B;Hallo+Welt%F0%9F%91%8B;مرحباً%F0%9F%91%8B"></div>
 <h1 align="center">I'm Jamill hallak</h1>
 <p align="center">
-<h3 align="center"> AI Engineer && Blockchain Developer🌟.</h3>
+<h3 align="center"> AI Engineer & Blockchain Developer🌟.</h3>
 <a href="https://www.linkedin.com/in/jamill-hallak-808680225/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="jamill hallak" height="40" width="40" /></a>;
 </p>
 <h3 align="left"> About me : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
