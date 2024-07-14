@@ -4,7 +4,7 @@
 <h1 align="center">I'm Jamill Hallak</h1>
 <p align="center">
 <h3 align="center"> AI Engineer & Blockchain Developer🌟.</h3>
-<a href="https://www.linkedin.com/in/jamill-hallak-808680225/" target="blank">
+<a href="https://www.linkedin.com/in/jamill-hallak/" target="blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="jamill hallak" height="40" width="40" />
 </a>
 </p>
