@@ -14,9 +14,9 @@
 </p>
 
 - I have a Bachelor's degree in Information Technology Engineering (Artificial Intelligence Specialization).
-- I have 4+ years of experience in developing and writing Smart Contracts for Ethereum and Non-Ethereum compatible networks.
-- I have 2+ years of experience in Deep learning, Machine learning, NLP, expert systems, CV.
-- I have 2+ years of experience using web3, ethers.js, and React (Full Stack).
+- I have 5+ years of experience in developing and writing Smart Contracts for Ethereum and Non-Ethereum compatible networks.
+- I have 4+ years of experience in Deep learning, Machine learning, NLP, expert systems, CV.
+- I have 5+ years of experience using web3, ethers.js, and React (Full Stack).
 - I have also used Web3 to integrate several Smart contracts of different blockchains to frontend designs.
 - 📖 I am currently learning Reinforcement learning (RL) and AWS.
 - 💬 Talk to me about Metaverse, Web3, AI, startups.
